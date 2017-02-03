@@ -588,3 +588,9 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+ul li{
+      font-size: 20px;
+    line-height: 1.7;
+    color: #fcf8e3;
+}
